@@ -4,3 +4,6 @@
 [submodule "Packages/Theme - Soda"]
 	path = Packages/Theme - Soda
 	url = git://github.com/buymeasoda/soda-theme.git
+[submodule "Packages/Git"]
+	path = Packages/Git
+	url = git://github.com/kemayo/sublime-text-2-git.git
