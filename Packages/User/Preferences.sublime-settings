@@ -1,0 +1,50 @@
+// Settings in here override those in "Default/Preferences.sublime-settings", and
+// are overridden in turn by file type specific settings.
+{
+  // Identation settings
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+
+  // Save files when focus is lost
+  "save_on_focus_lost": true,
+
+  // Cleanup files
+  "trim_trailing_white_space_on_save": true,
+  "ensure_newline_at_eof_on_save": true,
+
+  // Word separators. Remove hypen '-' from the default list to match CSS selectors
+  "word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
+
+  // Interface
+  // "theme": "Soda Dark.sublime-theme",
+  // "soda_classic_tabs": true,
+  // "color_scheme": "Packages/Color Scheme - Cobalt Alex/Cobalt-alex.tmTheme",
+
+  "highlight_line": true,
+  "auto_complete": false,
+  "indent_guide_options": ["draw_active"],
+
+  "font_face": "PragmataPro",
+  "font_options": ["subpixel_antialias"],
+  "font_size": 13,
+
+  "use_simple_full_screen": true,
+  "rulers": [0, 80],
+  "margin": 0,
+
+  // Behaviours
+  "hot_exit": false,
+  "remember_open_files": false,
+  "close_windows_when_empty": true,
+  "copy_with_empty_selection": false,
+  "scroll_past_end": true,
+
+  // Exclude bundler and several cache folders (sass, pygments...)
+  "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "tmp", ".bundle", ".*-cache"],
+
+  "file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj",
+    "*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo",
+    "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", ".tags*"],
+
+  "ignored_packages": ["Vintage"]
+}
