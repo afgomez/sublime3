@@ -18,7 +18,7 @@
   // Interface
   "theme": "Soda Dark 3.sublime-theme",
   "soda_classic_tabs": true,
-  // "color_scheme": "Packages/Color Scheme - Cobalt Alex/Cobalt-alex.tmTheme",
+  "color_scheme": "Packages/Color Scheme - Better Cobalt/BetterCobalt.tmTheme",
 
   "highlight_line": true,
   "auto_complete": false,

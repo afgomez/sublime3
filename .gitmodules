@@ -13,3 +13,6 @@
 [submodule "Packages/SublimeLinter"]
 	path = Packages/SublimeLinter
 	url = git://github.com/SublimeLinter/SublimeLinter.git
+[submodule "Packages/Color Scheme - Better Cobalt"]
+	path = Packages/Color Scheme - Better Cobalt
+	url = git://github.com/afgomez/better-cobalt.git
