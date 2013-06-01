@@ -10,3 +10,6 @@
 [submodule "Packages/Sass"]
 	path = Packages/Sass
 	url = git@github.com:afgomez/sass-textmate-bundle.git
+[submodule "Packages/SublimeLinter"]
+	path = Packages/SublimeLinter
+	url = git://github.com/SublimeLinter/SublimeLinter.git
