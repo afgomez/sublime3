@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"DocBlockr",
 		"ERB Insert and Toggle Commands",
 		"Package Control"
 	]
