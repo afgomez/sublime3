@@ -6,15 +6,14 @@
   // Reindent the whole document
   { "keys": ["ctrl+shift+r"], "command": "reindent" , "args": {"single_line": false}},
 
-  [
-    { "keys": ["ctrl+shift+."], "command": "erb", "context":
-      [
-        {
-          "key": "selector",
-          "operator": "equal",
-          "operand": "text.html.ruby, text.haml, source.yaml, source.css, source.scss, source.js, source.coffee"
-        }
-      ]
-    }
-  ]
+  // ERB tags
+  { "keys": ["ctrl+shift+."], "command": "erb", "context":
+    [
+      {
+        "key": "selector",
+        "operator": "equal",
+        "operand": "text.html.ruby, text.haml, source.yaml, source.css, source.scss, source.js, source.coffee"
+      }
+    ]
+  }
 ]
