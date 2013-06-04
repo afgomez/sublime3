@@ -31,6 +31,7 @@
   "use_simple_full_screen": true,
   "rulers": [0, 80],
   "margin": 0,
+  "fade_fold_buttons": false,
 
   // Behaviours
   "hot_exit": false,
