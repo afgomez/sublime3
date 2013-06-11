@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"AutoWrap",
 		"DocBlockr",
 		"ERB Insert and Toggle Commands",
 		"GitHubinator",
