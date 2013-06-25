@@ -15,5 +15,8 @@
         "operand": "text.html.ruby, text.haml, source.yaml, source.css, source.scss, source.js, source.coffee"
       }
     ]
-  }
+  },
+
+  // Goto open tabs
+  { "keys": ["super+alt+t"], "command": "goto_tab"}
 ]
