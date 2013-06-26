@@ -16,3 +16,6 @@
 [submodule "Packages/Color Scheme - Better Cobalt"]
 	path = Packages/Color Scheme - Better Cobalt
 	url = git://github.com/afgomez/better-cobalt.git
+[submodule "Packages/ShowFilenameStatus"]
+	path = Packages/ShowFilenameStatus
+	url = git@github.com:shyam-habarakada/sublime-showfilenamestatus.git
