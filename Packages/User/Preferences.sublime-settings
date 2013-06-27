@@ -40,6 +40,7 @@
   "copy_with_empty_selection": false,
   "scroll_past_end": true,
   "show_full_path": true,
+  "auto_close_tags": false,
 
   // Exclude bundler and several cache folders (sass, pygments...)
   "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "tmp", ".bundle", ".*-cache"],
