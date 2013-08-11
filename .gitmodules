@@ -1,6 +1,3 @@
-[submodule "Packages/Git"]
-	path = Packages/Git
-	url = git://github.com/kemayo/sublime-text-2-git.git
 [submodule "Packages/Sass"]
 	path = Packages/Sass
 	url = git@github.com:afgomez/sass-textmate-bundle.git
